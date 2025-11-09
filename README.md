@@ -29,3 +29,9 @@ R, Python, Streamlit, Google Cloud API, Tableau
 ## 👤 Author
 **Alex Swanner**  
 [LinkedIn](https://linkedin.com/in/alexswanner)
+
+---
+
+## 🤖 AI Assistance Disclosure
+
+This project was developed with assistance from generative AI tools (Claude AI and ChatGPT) for code development, debugging, statistical analysis guidance, and web application deployment. All data collection, research design, modeling decisions, and final analysis were performed by the author.
