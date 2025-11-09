@@ -13,7 +13,6 @@ Predictive model for NCAA 26 Dynasty player development using multiple linear re
 
 ## 🔍 Key Findings
 - Development trait is the strongest predictor (Elite earns 50+ more points than Normal)
-- DC Talent Developer abilities provide largest boost (+14 points)
 - Underclassmen develop faster
 - Position matters (LBs: -10.7, OL: +3.2 relative to QB)
 
