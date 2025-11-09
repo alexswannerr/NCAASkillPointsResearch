@@ -21,7 +21,6 @@ Predictive model for NCAA 26 Dynasty player development using multiple linear re
 - **Research Paper** - Complete analysis and methodology
 - **R Code** - Statistical modeling and analysis
 - **Python App** - Web application (Streamlit) and desktop GUI
-- **Tableau Visualizations** - Interactive dashboards
 
 ## 🛠️ Technologies
 R, Python, Streamlit, Google Cloud API, Tableau
