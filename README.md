@@ -20,6 +20,7 @@ Predictive model for NCAA 26 Dynasty player development using multiple linear re
 ## 📁 Repository Contents
 - **Research Paper** - Complete analysis and methodology
 - **R Code** - Statistical modeling and analysis
+- **Excel File** - Database to be used with R Code
 - **Python App** - Web application (Streamlit) and desktop GUI
 
 ## 🛠️ Technologies
